@@ -1,2 +1,2 @@
 # zino-templates
-Templates for Zino
+Default template for Zino
